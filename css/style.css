@@ -103,7 +103,7 @@
   height: 25px;
   background-color: #333;
   border-top: 20px solid #e60000;
-  border-radius: 50%; 
+  border-radius: 50%;
 }
 .iris:nth-child(2) {
   transform: translateX(25px);
